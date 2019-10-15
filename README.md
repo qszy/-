@@ -1,2 +1,5 @@
 # Breezy
-厚墨书源仓库（暗码：2000）LeanCloud托管示例。
+
+厚墨书源仓库LeanCloud托管示例。
+
+关于LeanCloud服务请参考： [https://leancloud.cn](https://leancloud.cn)。
